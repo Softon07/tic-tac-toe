@@ -81,8 +81,11 @@ def is_board_full(b):
     return True
 
 
-print("Welcome to tic-tac-toe Game")
+def read_file(f):
+    with open(f, 'r') as file:
+        print(f"\n{file.read()}")
 
+
+read_file("rules.txt")
 while should_continue:
-    print("test")
     should_continue = game_end(board)
