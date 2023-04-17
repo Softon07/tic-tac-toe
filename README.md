@@ -11,7 +11,6 @@
 
 ![The fragment of the game shown in the photo](tic_tac_toe_game.png)
 
-<!-- Zawartość zakładek -->
 <div class="tab-content" id="myTabContent">
   <div class="tab-pane fade show active" id="english" role="tabpanel" aria-labelledby="english-tab">  
   
