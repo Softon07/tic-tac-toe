@@ -1,7 +1,9 @@
 Welcome to tic-tac-toe Game!
 Rules of the game:
+
 The goal of the game of tic-tac-toe is to arrange three characters
 in one row (one line) - vertically, horizontally or diagonally
+
 This is a console game, so in order to make a move to a given position
-you must provide a number reflecting the position according
+you must enter 2 digits reflecting the position according
 to the illustrative board shown below:
